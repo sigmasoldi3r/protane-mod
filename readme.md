@@ -8,12 +8,16 @@ official server of the pack.
 
 There are three major branches that contain this information (Excluding main):
 
-- The `mod` branch
+- The [`mod` branch][mod-b]
   - Contains the _KubeJS_ files that add items to the game.
-- The `docs` branch
+- The [`docs` branch][docs-b]
   - Contains future web files for further information.
-- The `computercraft` branch
+- The [`computercraft` branch][cc-b]
   - Contains _ComputerCraft_ scripts that are being used in the official server.
+
+[mod-b]: https://github.com/sigmasoldi3r/protane-mod/tree/mod#readme
+[docs-b]: https://github.com/sigmasoldi3r/protane-mod/tree/docs#readme
+[cc-b]: https://github.com/sigmasoldi3r/protane-mod/tree/computercraft#readme
 
 ```mermaid
 ---
