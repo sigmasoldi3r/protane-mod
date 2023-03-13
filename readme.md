@@ -1,3 +1,5 @@
 # The Lore of the King God
 
-Initial commit
+## Docs branch
+
+This branch contains the web page of the modpack.
